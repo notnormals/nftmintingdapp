@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xC83FaD1BE05261dE4e4E0B7Da7DF2a11b039c6FE",
-  "SCAN_LINK": "https://arbiscan.io/address",
+  "CONTRACT_ADDRESS": "0xDedBC78Df2038d22DcAAA6b8Fb41B57cf88E0B5f",
+  "SCAN_LINK": "https://polygonscan.com/address",
   "NETWORK": {
-    "NAME": "Arbitrum",
-    "SYMBOL": "ETH",
-    "ID": 42161
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
   },
-  "NFT_NAME": "Wizard Alantar",
-  "SYMBOL": "WIZARDALANTAR",
-  "MAX_SUPPLY": 150,
-  "WEI_COST": 100000000000000000,
-  "DISPLAY_COST": 0.1,
+  "NFT_NAME": "???",
+  "SYMBOL": "???",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "",
-  "MARKETPLACE_LINK": "",
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "0xDedBC78Df2038d22DcAAA6b8Fb41B57cf88E0B5f",
   "SHOW_BACKGROUND": true
 }
